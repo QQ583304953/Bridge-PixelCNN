@@ -12,6 +12,8 @@ Keywords: generative artificial intelligence; bridge-type innovation; PixelCNN; 
 
 Based on the Python3.10, TensorFlow2.10, and Keras2.10
 
+https://arxiv.org/abs/2401.05964
+
 从像素卷积神经网络隐空间中生成新桥型的尝试
 
 张洪俊
@@ -22,3 +24,4 @@ Based on the Python3.10, TensorFlow2.10, and Keras2.10
 
 关键词：生成式人工智能；桥型创新；像素卷积神经网络；隐空间；自回归模型；深度学习
 
+http://www.paper.edu.cn/releasepaper/content/202401-1
